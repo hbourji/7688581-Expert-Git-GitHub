@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-La modification n'est pas la même
+Je veux créer un conflit
 ```
 
 
