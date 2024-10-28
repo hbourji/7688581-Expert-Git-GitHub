@@ -24,7 +24,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 <<<<<<< HEAD
 Créer un conflit
 =======
-Le but est de créer un conflit ieàizengàirzejgznoifj
+Le but est de créer un conflit ieàizengàirzejgznoifjiudbiuzfbiu
 >>>>>>> 4e49604a87dca56f2085ba9d97771cc921bbf994
 ```
 
